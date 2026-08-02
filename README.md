@@ -231,5 +231,12 @@ Contributions are welcome! Here's how to get started:
 ---
 
 <p align="center">
+
   Made with ❤️😍 using Django & OpenCV By S Sooraj
+
+
+  Made with ❤️💕 using Django & OpenCV By S Sooraj [Aridoshikazu103]
+
+  Made with ❤️😍 using Django & OpenCV By S Sooraj [Aridoshikazu103]
+
 </p>
