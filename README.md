@@ -21,7 +21,6 @@ A real-time webcam live streaming web application built with **Django** and **Op
 - [How It Works](#-how-it-works)
 - [Troubleshooting](#-troubleshooting)
 - [Contributing](#-contributing)
-- [License](#-license)
 
 ---
 
