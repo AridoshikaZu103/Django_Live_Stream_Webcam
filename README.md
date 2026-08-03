@@ -232,7 +232,11 @@ Contributions are welcome! Here's how to get started:
 
 <p align="center">
 
+
+  Made with ❤️😍 using Django & OpenCV By S Sujju
+
   Made with ❤️😍 using Django & OpenCV By S Duggu
+
 
 
 </p>
